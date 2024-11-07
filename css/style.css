@@ -97,7 +97,7 @@ body{
     gap: 10px;
     flex-wrap: wrap;
     overflow-y: auto;
-    min-height: 50vh;
+    max-height: 60vh;
 }
 
 .card{
